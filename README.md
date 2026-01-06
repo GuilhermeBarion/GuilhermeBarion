@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1>Hi there!  I'm Guilherme Barion 👋</h1>
 
-<!--
-**GuilhermeBarion/GuilhermeBarion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  🎓 <strong>Computer Science Student</strong><br>
+  💻 Software Development • Databases • Data Analysis<br>
+  🛠️ Java | C | Python | SQL | Power BI | Git & GitHub<br>
+  📍 Brazil
+</p>
+<hr>
+<p>
+  <strong>Focused on building efficient, well-structured, and data-driven solutions.</strong>
+</p>
+<hr>
+<p>
+  📫 <strong>Contact</strong><br>
+  📧 <strong>Email: </strong><a href=""></a><br>
+  💼 <strong>LinkedIn: </strong><a href=""></a>
+</p>
